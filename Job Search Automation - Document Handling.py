@@ -60,7 +60,7 @@ for dirpath, dirnames, filenames in os.walk(path):
 word.Quit()
 print('Word files converted to pdf')
 
-Create Jobposting file for record saved html and java
+#Create Jobposting file for record saved html and java
 kwargs = {'bypass_robots': True, 'project_name': 'Jobposting'}
 save_webpage(url, Newdir, **kwargs)
 print('Jobposting saved')
