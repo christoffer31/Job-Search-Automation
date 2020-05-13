@@ -11,3 +11,5 @@ What does the program do?
 Step 5 is not working properly, it does what it should, but it tend to run into errors that confuses the program so it doesn't stop like intended.
 I'm looking into a better solution that will save space and work faster.
 A lot of stuff is hardcoded and I will change that soon so the program is easier to move to another computer.
+
+After this I will start working on a program that can automate the process of creating a blogblog at Jobnet.dk
